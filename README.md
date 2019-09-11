@@ -1,6 +1,6 @@
 # laboratory
 
-用于学习python，java，go，es/ts的一个代码试验集合
+用于学习python，java，go，es的一个代码试验集合
 
 
 
